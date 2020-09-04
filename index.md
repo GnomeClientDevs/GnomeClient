@@ -10,9 +10,9 @@
 
 #### Contact:
 
-#### [GnomeClient@gmail.com](https://mail.google.com/mail/u/0/#inbox) - [Dicord](https://discord.gg/PStyYfM) - [Twitter](https://twitter.com/Gnome55775189)
+#### [mail](mailto:GnomeClient@gmail.com) - [Dicord](https://discord.gg/PStyYfM) - [Twitter](https://twitter.com/Gnome55775189)
 
-[mail](mailto:GnomeClient@gmail.com)
+
 
 
 
