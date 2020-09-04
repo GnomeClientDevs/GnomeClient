@@ -18,8 +18,11 @@
 
 # Coming up
 
-- Click gui
+- Click Gui
 - Installer
 - Freecam
 - Storage ESP
 - Scaffold
+- Auto Armor
+- Auto Totem
+- Xray
