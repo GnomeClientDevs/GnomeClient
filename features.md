@@ -14,4 +14,12 @@
 - Speed
 - Slimejump
 - Derp
-- Scaffold (work in progres)
+
+
+# Coming up
+
+- Click gui
+- Installer
+- Freecam
+- Storage ESP
+- Scaffold
