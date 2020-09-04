@@ -1,1 +1,1 @@
-# (GnomeClient)[https://gnomeclientdevs.github.io/GnomeClient/]
+# [GnomeClient](https://gnomeclientdevs.github.io/GnomeClient/)
