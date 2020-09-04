@@ -1,3 +1,2 @@
 # Coming soon...
 
-![Windows] (src="img/windows-icon.png")
