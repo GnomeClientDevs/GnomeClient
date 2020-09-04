@@ -9,6 +9,6 @@ Disclaimer: GnomeClient is not a hack client, a cheat client, or a hacked client
 
 ### Contact:
 
-[GnomeClient@gmail.com](gmail.com)
+[GnomeClient@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 [Official GnomeClient Dicord](https://discord.gg/PStyYfM)
