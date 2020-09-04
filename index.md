@@ -1,7 +1,7 @@
 
 ## Welcome to the official GnomeClient website!
 ### Content
-- [About](https://gnomeclientdevs.github.io/GnomeClient/info)
+- [About](https://gnomeclientdevs.github.io/GnomeClient/about)
 - [Installation](https://gnomeclientdevs.github.io/GnomeClient/installation)
 - [Features](https://gnomeclientdevs.github.io/GnomeClient/features)
 
