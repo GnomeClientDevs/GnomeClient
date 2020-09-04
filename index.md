@@ -10,7 +10,7 @@
 
 #### Contact:
 
-#### [GnomeClient@gmail.com](https://mail.google.com/mail/u/0/#inbox) - #### [Official GnomeClient Dicord](https://discord.gg/PStyYfM)
+#### [GnomeClient@gmail.com](https://mail.google.com/mail/u/0/#inbox) - [Official GnomeClient Dicord](https://discord.gg/PStyYfM)
 
 
 
