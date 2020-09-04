@@ -1,19 +1,19 @@
 # Features:
 
-- Player ESP
-- Entity ESP
-- Fullbright
-- B-hop
+- Player ESP *
+- Entity ESP *
+- Fullbright *
+- B-hop **
 - Step
-- Killaura
-- Crystalaura
-- Elytra+
+- Killaura *
+- Crystalaura *
+- Elytra+ *
 - Airjump
 - Flight
-- Jesus
+- Jesus **
 - Speed
 - Slimejump
-- Derp
+- Derp *
 
 
 # Coming up
@@ -26,3 +26,6 @@
 - Auto Armor
 - Auto Totem
 - Xray
+
+* = NCP-compatable
+** = NCP-semi-compatable
