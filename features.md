@@ -27,5 +27,5 @@
 - Auto Totem
 - Xray
 
- * = NCP-compatable
-** = NCP-semi-compatable
+ \* = NCP-compatable
+\*\* = NCP-semi-compatable
