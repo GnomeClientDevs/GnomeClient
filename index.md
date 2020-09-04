@@ -8,9 +8,9 @@
 
 
 
-#### Contact:
+### Contact:
 
-#### [mail](mailto:GnomeClient@gmail.com) - [Dicord](https://discord.gg/PStyYfM) - [Twitter](https://twitter.com/Gnome55775189)
+[mail](mailto:GnomeClient@gmail.com) - [Dicord](https://discord.gg/PStyYfM) - [Twitter](https://twitter.com/Gnome55775189)
 
 
 
