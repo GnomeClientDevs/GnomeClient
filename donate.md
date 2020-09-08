@@ -1,5 +1,4 @@
-## Donate by clicking on the image! Donating helps us a lot, but don't do it if you cant afford it/are not allowed to!
-
+## Donate by clicking on the image! 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -9,4 +8,5 @@
 </form>
 
 
-**We are thankful for your support and while we do appreciate if you do decide to donate, It is not required. Before donating, Please consider that your tips are non-refundable.**
+**We are thankful for your support and while we do appreciate if you do decide to donate, It is not required. don't do it if you cant afford it or if you are not allowed to! Before donating, Please consider that your donations are non-refundable.**
+
