@@ -28,6 +28,7 @@
 - Auto Armor
 - Auto Totem
 - Xray
+- Baritone
 
  \* = NCP-compatable | \*\* = NCP-semi-compatable | / = NCP-incompatible 
 
