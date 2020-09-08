@@ -29,3 +29,6 @@
 
  \* = NCP-compatable
 \*\* = NCP-semi-compatable
+
+NCP = No Cheat Plus.
+
