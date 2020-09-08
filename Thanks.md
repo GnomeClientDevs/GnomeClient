@@ -4,5 +4,6 @@ Thank you so much for donating to GnomeCient!
 
 We will use your donation to make our projects even better!
 
+![gnome](https://cdn.discordapp.com/attachments/615446805190017045/752904461449691206/gnomeonrock-removebg-preview.png)
 
 **Dm FloGo#1980 or Nieh#1142 on Discord to get the Donator rank on our discord.**
