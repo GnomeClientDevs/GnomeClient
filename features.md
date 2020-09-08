@@ -27,7 +27,7 @@
 - Auto Totem
 - Xray
 
- \* = NCP-compatable - \*\* = NCP-semi-compatable - / = NCP-incompatible 
+ \* = NCP-compatable | \*\* = NCP-semi-compatable | / = NCP-incompatible 
 
 NCP = No Cheat Plus. (AntiCheat)
 
