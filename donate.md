@@ -1,4 +1,4 @@
-# Donate by clicking on the image! Donating helps us a lot, but don't do it if you cant afford it/are not allowed to!
+## Donate by clicking on the image! Donating helps us a lot, but don't do it if you cant afford it/are not allowed to!
 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
