@@ -8,3 +8,5 @@
 <img alt="" border="0" src="https://www.paypal.com/en_NL/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+
+**We are thankful for your support and while we do appreciate if you do decide to donate, It is not required. Before donating, Please consider that your tips are non-refundable.**
