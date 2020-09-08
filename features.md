@@ -4,7 +4,7 @@
 - Entity ESP  *
 - Fullbright  *
 - B-hop       **
-- Step-       **
+- Step        **
 - Killaura    *
 - Crystalaura *
 - Elytra+     *
