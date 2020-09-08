@@ -1,19 +1,19 @@
 # Features:
 
-- Player ESP *
-- Entity ESP *
-- Fullbright *
-- B-hop **
-- Step **
-- Killaura *
+- Player ESP  *
+- Entity ESP  *
+- Fullbright  *
+- B-hop       **
+- Step        **
+- Killaura    *
 - Crystalaura *
-- Elytra+ *
+- Elytra+     *
 - Airjump
 - Flight
-- Jesus **
+- Jesus       **
 - Speed
 - Slimejump
-- Derp *
+- Derp        *
 
 
 # Coming up
