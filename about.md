@@ -9,4 +9,4 @@ GnomeClient was created on sunday 5 july 2020.
 ![FloGo](https://avatars2.githubusercontent.com/u/59965542?s=400&u=5c42c1838c02751a3da6fb11f9096ea17f2be6a3&v=4g)
 - Niehein 
 
-![Niehein](https://cdn.discordapp.com/attachments/615446805190017045/753173314368831488/gangsta_gnome-removebg-preview.png)
+![Niehein](https://cdn.discordapp.com/attachments/615446805190017045/753175647576129587/128x128white.png)
