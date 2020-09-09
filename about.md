@@ -15,3 +15,5 @@ GnomeClient was created on sunday 5 july 2020.
 
 Are you experienced with coding or developing a Minecraft client? You can help us! contact us via Discord, Mail or Twitter.
 
+
+[mail](mailto:GnomeClient@gmail.com) \| [Dicord](https://discord.gg/PStyYfM) \| [Twitter](https://twitter.com/Gnome55775189)
