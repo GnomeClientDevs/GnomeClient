@@ -13,7 +13,7 @@
 [mail](mailto:GnomeClient@gmail.com) \| [Dicord](https://discord.gg/PStyYfM) \| [Twitter](https://twitter.com/Gnome55775189)
 
 
-![paddo](file:///C:/Users/niehg/Downloads/6d382ee0f6a22b70f6169941529f7354.png)
+![paddo](https://cdn.discordapp.com/attachments/615446805190017045/753199895615242240/6d382ee0f6a22b70f6169941529f7354.png)
 
 
 
