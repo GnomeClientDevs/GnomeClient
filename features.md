@@ -22,7 +22,6 @@
 
 - Click Gui
 - Installer
-- Freecam
 - Storage ESP
 - Scaffold
 - Auto Armor
