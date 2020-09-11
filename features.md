@@ -16,7 +16,7 @@
 - Speed       /
 - Slimejump   /
 - Derp        *
-
+- Flight      No keybind :(
 
 # Coming up
 
