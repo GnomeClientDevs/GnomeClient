@@ -11,7 +11,7 @@
 - Crystalaura *
 - Elytra+     *
 - Airjump     /
-- Flight      / 
+- Freecam     *
 - Jesus       **
 - Speed       /
 - Slimejump   /
