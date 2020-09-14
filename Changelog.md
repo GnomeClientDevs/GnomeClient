@@ -1,3 +1,3 @@
 # Changelog
 
-*Here you can see what has been changed in the last update.*
+**Here you can see what has been changed in the last update.**
