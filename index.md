@@ -10,7 +10,7 @@
 
 ### Contact:
 
-[mail](mailto:GnomeClient@gmail.com) \| [Dicord](https://discord.gg/PStyYfM) \| [Twitter](https://twitter.com/Gnome55775189)
+[mail](mailto:GnomeClient@gmail.com) \| [Dicord](https://discord.gg/PStyYfM) \| [Twitter](https://twitter.com/Gnome55775189) \| [Youtube](https://www.youtube.com/channel/UCDBxG3y68LJdmtCj1haI9bg?view_as=subscriber)
 
 
 
