@@ -5,7 +5,7 @@
 - [Installation](https://gnomeclientdevs.github.io/GnomeClient/installation)
 - [Features](https://gnomeclientdevs.github.io/GnomeClient/features)
 - [Donate](https://gnomeclientdevs.github.io/GnomeClient/donate)
-
+- [Changelog](https://gnomeclientdevs.github.io/GnomeClient/Changelog)
 
 
 ### Contact:
