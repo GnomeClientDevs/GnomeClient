@@ -1,4 +1,9 @@
 # About
+
+GnomeClient is a utility mod for Minecraft.
+Our Client offers some non-vanilla features (see [Features](https://gnomeclientdevs.github.io/GnomeClient/features))
+
+
 ## Creation
 GnomeClient was created on 5/7/2020
 
