@@ -2,7 +2,7 @@
 
 GnomeClient is a utility mod for Minecraft.
 Our Client offers some non-vanilla features (see [Features](https://gnomeclientdevs.github.io/GnomeClient/features)).
-With our client you can get an advantage against other players. (keep in mind that this atvantage can be considered unfair, and our client can be against the rules on some servers)
+With our client you can get an advantage against other players. (keep in mind that this advantage can be considered unfair, and that our client can be against the rules on some servers)
 
 We are making this client for fun (and free), so don't expect the most godly client ever.
 
