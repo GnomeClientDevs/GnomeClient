@@ -19,7 +19,6 @@
   <input type="GnomePack" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Submit" width="48" height="48">
 </form>
 
-<p><b>Note:</b> The image input type sends the X and Y coordinates of the click that activated the image button as default.</p>
 
 </body>
 </html>
