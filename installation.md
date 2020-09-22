@@ -9,7 +9,6 @@
 <html>
 <body>
 
-<h1>The input src attribute</h1>
 
 
 <form action="/action_page.php">
