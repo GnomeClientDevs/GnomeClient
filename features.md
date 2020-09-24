@@ -1,7 +1,5 @@
 # Features:
 
-# Coming up
-
 **\- Build in optifine.**
 
 - Hole ESP    *
