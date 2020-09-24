@@ -3,7 +3,7 @@
 **\- Build in optifine.**
 
 - Hole ESP    *
-- Storage ESP
+- Storage ESP *
 - Player ESP  *
 - Entity ESP  *
 - Fullbright  *
