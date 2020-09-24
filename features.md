@@ -1,4 +1,6 @@
-# Coming up# Features:
+# Features:
+
+# Coming up
 
 **\- Build in optifine.**
 
