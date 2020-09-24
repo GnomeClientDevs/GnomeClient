@@ -1,7 +1,9 @@
-# Features:
+# Coming up# Features:
 
 **\- Build in optifine.**
 
+- Hole ESP    *
+- Storage ESP
 - Player ESP  *
 - Entity ESP  *
 - Fullbright  *
@@ -13,16 +15,17 @@
 - Airjump     /
 - Freecam     *
 - Jesus       **
-- Speed       /
 - Slimejump   /
-- Derp        *
-- Flight      No keybind :(
+- Derp        **
+
+# Not keybinded
+- Flight      /
+- Speed       /
 
 # Coming up
 
 - Click Gui
 - Installer
-- Storage ESP
 - Scaffold
 - Auto Armor
 - Auto Totem
