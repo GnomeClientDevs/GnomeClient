@@ -7,4 +7,4 @@
 
 _The official GnomeClient Texture pack._
 
-Install GnomePack: [download](http://download2260.mediafire.com/k8b51zzdyv3g/1dql21ovq6i3njk/GnomePack.zip)
+Install GnomePack: [download](http://download936.mediafire.com/ijh0iwxvjnug/l5r08jervbe2bjp/GnomePack.zip)
